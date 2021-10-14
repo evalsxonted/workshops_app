@@ -1,16 +1,19 @@
 # workshops
 
-A new Flutter project.
+A simple flutter appliation to add and then view workshops.
+P.S. this application wasnt built for real production use. it was built for educational purpose.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+https://youtu.be/sGSbeF12Ql8
 
-A few resources to get you started if this is your first Flutter project:
+## Implementaion Info
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+programming language: dart.<br/>
+framework: flutter.<br/>
+state management: fully implemented with ValueListenableBuilder.<br/>
+state management package: none.<br/>
+files arhitecture: feature based clean architecture.<br/>
+design pattern: abstract factory.<br/>
+design principle in focus:  dependency inversion principle.<br/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
